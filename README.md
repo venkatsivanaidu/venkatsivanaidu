@@ -14,20 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h1 align="center">Hi 👋, I'm Y. Venkatsiva Naidu</h1>
-
-<h3 align="center">💻 Computer Science Student | Frontend Developer | AI & IoT Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Frontend+Developer;Learning+Java+%26+Python;Exploring+AI%2C+3D+%26+IoT" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=venkatsivanaidu&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
-
-
 <!-- ======================================= -->
 <!--       Y. VENKATSIVA NAIDU PROFILE       -->
 <!-- ======================================= -->
